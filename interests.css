@@ -1,0 +1,11 @@
+nav li {
+	height: 100px;
+	font-size: 20px;
+	display: inline-block;
+}
+
+.food li {
+	height: 100px;
+	font-size: 20px;
+	display: inline-block;
+}

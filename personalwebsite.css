@@ -1,0 +1,64 @@
+* {box-sizing: border-box;}
+
+
+.top {
+	list-style: none;
+	height: 80px;
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+	background-color:gray;
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+	font: 20px Arial;
+	display: inline-block;
+	margin-top: 50px;
+	margin-right: 40px;
+	margin-left: 100px;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	font-size: 16px;
+	text-decoration: underline;
+}
+
+.main {
+	height: 400px;
+	margin: 0 auto;
+	background: url(http://us.123rf.com/450wm/sepavo/sepavo1401/sepavo140100105/25233984-seoul-south-korea-city-skyline-nighttime-skyline.jpg);
+	background-repeat: no-repeat;
+	background-size: 60% 100%;
+}
+
+p.name {
+	margin-left: 10px;
+	font-style: serif;
+	font-size: 60px;
+	color: black;
+	float: left;
+}
+
+img {
+	float: right;
+}
+
+p.intro {
+	font-size: 20px;
+	float: left;
+}
+
+h3 {
+	margin-left: 10px;
+	font-style: serif;
+	color: blue;
+}

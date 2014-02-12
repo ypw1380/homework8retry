@@ -1,0 +1,36 @@
+h1 {
+	text-align: center;
+	color: blue;
+}
+
+h2 {
+	margin-left: 100px;
+}
+
+.wrap {
+	margin: 0 auto;
+	width: 900px;
+}
+
+.nav {
+	margin: 5px;
+	width: 30%;
+	float: left;
+	position: fixed;
+	background-color: yellow;
+}
+
+.sidebar {
+	margin: 5px;
+	width: 40%;
+	float: right;
+	background-color: green;
+}
+
+.articles {
+	border: solid gray 2px;
+	margin: 30px;
+	padding: 10px;
+}
+
+* box-sizing: border-box;

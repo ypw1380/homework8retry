@@ -1,0 +1,39 @@
+.green {
+	border: solid red 3px;
+	margin: 20px;
+	padding: 5px;
+	display: inline-block;
+}
+
+.test {
+	margin: 0 auto;
+	width: 900px;
+	height: 100px;
+	background-color: orange;
+	display: block;
+}
+
+.column {
+	float: left;
+}
+
+.colum {
+	float: left;
+}
+
+img {
+	position: relative;
+	margin: 40px;
+}
+
+.gallery {
+	border: solid red 3px;
+	margin: 30px;
+	padding: 20px;
+	display: inline;
+	float: left;
+}
+
+#mygallery {
+	width: 30%;
+}

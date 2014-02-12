@@ -1,0 +1,31 @@
+a {
+	color: green;
+}
+
+body {
+	background-color: red;
+	background-image: url('http://techzulu.com/wp-content/uploads/2013/03/Bright-Cloud.jpg');
+}
+
+#chapter1 {
+	color: orange;	
+}
+
+.special {
+	color: purple;
+}
+
+p {
+	color: blue;
+	margin: 0 auto;
+	text-align: right;
+}
+
+div.stuff {
+	width: 50%;
+	height: 20%;
+	background: yellow;
+	border: 1px solid black;
+	font-family: serif;
+	font-size: 20px;
+}

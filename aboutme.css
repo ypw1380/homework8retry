@@ -1,0 +1,49 @@
+body {
+	background-image: url('https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUnaVr4vriaanq7IjW3NueHPiG9dt5gX3IpRbsUVoApFwKp3Vb');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+h1 {
+	color: green;
+	text-align: center;
+}
+
+p.likes {
+	color: purple;
+}
+
+p.dislikes {
+	color: red;
+}
+
+.course {
+	text-transform: uppercase;
+}
+
+#supplements {
+	line-height: 35px;
+}
+
+div {
+	width: 85%;
+	height: 55%;
+	background: white;
+	border: 1px solid black;
+	font-family: serif;
+	font-size: 18px;
+}
+
+img {
+	height: 100px;
+}
+
+li {
+	font-family: sans-serif;
+	font: 16px;
+	color: gray;
+}
+
+a {
+	color: orange;
+}

@@ -1,0 +1,34 @@
+h1 {
+	font-style: serif;
+	text-align: center;
+}
+
+.left {
+	margin: 5px;
+	width: 250px;
+	float: left;
+	background-color: red;
+}
+
+.center {
+	margin: 5px;
+	width: 60%;
+	float: left;
+}
+
+.art {
+	margin-top: 20px;
+}
+
+.left h3 {
+	text-align: center;
+}
+
+.right {
+	margin: 5px;
+	width: 250px;
+	float: right;
+	background-color: blue;
+}
+
+* box-sizing: border-box;

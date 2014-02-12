@@ -1,0 +1,16 @@
+
+h1 {
+	text-align: center;
+}
+.gallery {
+	border: solid red 3px;
+	margin-right: 25px;
+	padding: 10px;
+	display: inline;
+	float: left;
+	margin-top: 20px;
+}
+
+#mygallery {
+	width:80%;
+}
